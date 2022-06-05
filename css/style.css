@@ -166,3 +166,13 @@ p {
 .btn:hover{
 	background-color: #176ade;
 }
+
+
+/* autor */
+
+.autor{
+	position: absolute;
+
+	bottom: 0;
+	right: 20px;
+}
